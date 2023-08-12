@@ -1,0 +1,10 @@
+introduction to pointers
+ pointers in c++
+ a pointer is just a C variables whose value can obtain the address of another variable
+needs to be declared before use just like any other variable
+general form:
+data_type *pointer_name;
+three things are specified in the above declaration:
+the asterisk(*) tells that the variable pointer_name is a pointer variable
+pointer_name needs a memory location
+pointer_name points to a variable of type data_type
